@@ -1,1 +1,7 @@
 for testing purposes
+
+
+//Method 1
+
+
+System.out.print
